@@ -86,4 +86,4 @@ E2        |  -0.000012    0.000535    0.000010
 E3        |   0.000023    0.000010    0.000231
 # 🧾 Exportar precios y rendimientos a CSV
 ? outfile "precios_y_rendimientos.csv"
-Escribiendo los resultados en 'C:\Users\\User\Documentos\gretl\precios_y_rendimientos.csv'
+Escribiendo los resultados en 'C:\Users\User\Documentos\gretl\precios_y_rendimientos.csv'
